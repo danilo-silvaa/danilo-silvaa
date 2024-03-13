@@ -1,9 +1,8 @@
 # 💫 Sobre mim:
-🙋‍♂️ Olá! Sou o Danilo Silva, tenho 18 anos e atualmente moro em Catende, Pernambuco;<br>👨‍💻 Um desenvolvedor que também é apaixonado por Hacking Web;<br>🎓 Desenvolvimento de Sistemas - ETE DE PALMARES/PE;
-
+🙋‍♂️ Olá! Sou o Danilo Silva, tenho 18 anos e atualmente moro em São José dos Campos, São Paulo;<br>👨‍💻 Um desenvolvedor que também é apaixonado por Hacking Web;<br>🎓 Desenvolvimento de Sistemas - ETE DE PALMARES/PE;
 
 ## 🌐 Social:
-[![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://instagram.com/danilosilva.dev) [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/danilosilva-dev) [![YouTube](https://img.shields.io/badge/YouTube-%23FF0000.svg?logo=YouTube&logoColor=white)](https://youtube.com/@danilomodz) 
+[![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://instagram.com/iamdanilosilva_) [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/danilosilva-dev) [![YouTube](https://img.shields.io/badge/YouTube-%23FF0000.svg?logo=YouTube&logoColor=white)](https://youtube.com/@danilomodz) 
 [![Gmail](https://img.shields.io/badge/Gmail-%23333.svg?logo=Gmail&logoColor=white)](mailto:danilosilvaa.dev@gmail.com)
 
 # 💻 Tecnologias:
